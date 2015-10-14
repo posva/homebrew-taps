@@ -2,8 +2,8 @@ require "formula"
 
 class Catimg < Formula
   homepage "https://github.com/posva/catimg"
-  url "https://github.com/posva/catimg/archive/2.2.tar.gz"
-  sha256 "34b7ed96eb4b56ce9ef21e5877d83df4a89c1423b02849fedf62e3e8ad48807b"
+  url "https://github.com/posva/catimg/archive/v2.2.1.tar.gz"
+  sha256 "eb76d3baeb5e7382d8839d7d4351794166c0b6e8d777ffe0087a3401f907e991"
 
   depends_on "cmake" => :build
 
